@@ -1,2 +1,2 @@
-# web-api-bearer-authentication
-Implementação de autenticação baseada token para autenticação e autorização de WebAPI
+# WebAPI com Bearer Authentication
+Implementação de autenticação baseada token para autenticação e autorização de WebAPI utilizando OAuth 2.0
